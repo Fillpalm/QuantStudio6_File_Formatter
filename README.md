@@ -9,4 +9,4 @@ Works only on Windows \
 \
 Requirements:\
 Download miniconda: https://docs.conda.io/en/latest/miniconda.html \
-and install pandas \
+and install pandas 
