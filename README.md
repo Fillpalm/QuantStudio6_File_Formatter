@@ -24,7 +24,7 @@ Install:
 \
 <br/>
 <br>
-Run program: \
-Double clicking the .bat file should run anaconda and bring uo the GUI \
-For each plate, select a file. (NOTE: all plates must have a file, if no file needed, select an empty template)  \
+Run program: <br/>
+Double clicking the .bat file should run anaconda and bring uo the GUI <br/>
+For each plate, select a file. (NOTE: all plates must have a file, if no file needed, select an empty template)  <br/>
 Hit "make file" and the new file should be created (output directory needs to be specified in GUI.py) 
