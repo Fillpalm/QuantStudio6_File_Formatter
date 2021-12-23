@@ -22,8 +22,8 @@ Install:
 3. Download the .bat file and put it on Desktop 
 4. Open .bat file with any text editor and set the correct path for the python files 
 \
-\
-Run program: 
-Double clicking the .bat file should run anaconda and bring uo the GUI 
-For each plate, select a file. (NOTE: all plates must have a file, if no file needed, select an empty template) 
+<br/>
+Run program: \
+Double clicking the .bat file should run anaconda and bring uo the GUI \
+For each plate, select a file. (NOTE: all plates must have a file, if no file needed, select an empty template)  \
 Hit "make file" and the new file should be created (output directory needs to be specified in GUI.py) 
