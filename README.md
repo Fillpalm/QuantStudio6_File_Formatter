@@ -4,8 +4,8 @@ A GUI to help Drexel's COVID lab with auto file formatting for QuantStudio impor
 \
 \
 \
-ONLY works as specified for Drexel's COVID lab, designed and implemented October 2021
-Works only on Windows
+ONLY works as specified for Drexel's COVID lab, designed and implemented October 2021 \
+Works only on Windows \
 
 Requirements:
 Download miniconda: https://docs.conda.io/en/latest/miniconda.html
